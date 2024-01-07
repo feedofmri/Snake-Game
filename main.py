@@ -32,7 +32,7 @@ class Snake:
         self.body_br = pygame.image.load('image/body_br.png').convert_alpha()
         self.body_bl = pygame.image.load('image/body_bl.png').convert_alpha()
         self.eat_sd = pygame.mixer.Sound('music/eat.wav')
-        # mawa i love you
+
     def draw_snake(self):
 
         self.update_head()
