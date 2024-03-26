@@ -2,7 +2,7 @@
 
 Welcome to the Snake and Apple game, a classic and addictive game built with Python and PyCharm!
 
-![Game Cover](snake-game.png)
+![Game Cover](snake-game.webp)
 
 ## About
 Snake and Apple is a traditional arcade game where players control a snake to eat apples and grow longer while avoiding obstacles and the snake's own tail. It's a fun and challenging game that's perfect for all ages.
